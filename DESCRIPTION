@@ -1,0 +1,10 @@
+Package: personal
+Type: Package
+Title: Seth's personal files
+Version: 0.1
+Date: 2016-07-21
+Author: Seth M. Spain
+Maintainer: Seth M. Spain <smspain@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: GPL-2
+LazyData: TRUE
